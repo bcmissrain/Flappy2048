@@ -1,0 +1,18 @@
+﻿<xapCache source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Flappy2048.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2016/2/22 22:01:56">
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\Background.png" archivePath="Background.png" lastWriteTime="2014/3/20 9:41:32" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\PhoneGameThumb.png" archivePath="PhoneGameThumb.png" lastWriteTime="2014/3/20 9:42:53" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2016/2/22 22:01:56" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2016/2/22 22:01:56" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Flappy2048.dll" archivePath="Flappy2048.dll" lastWriteTime="2016/2/22 22:01:56" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\SamuraiLibraryV1.2411\bin\Windows Phone\Debug\SamuraiLibraryV1.241.dll" archivePath="SamuraiLibraryV1.241.dll" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Images\background.xnb" archivePath="Content\Images\background.xnb" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Images\tile.xnb" archivePath="Content\Images\tile.xnb" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Images\win.xnb" archivePath="Content\Images\win.xnb" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Images\frame.xnb" archivePath="Content\Images\frame.xnb" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Images\block.xnb" archivePath="Content\Images\block.xnb" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb" archivePath="Content\Font\ScoreFont.xnb" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Sound\Coin.xnb" archivePath="Content\Sound\Coin.xnb" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Sound\Jump.xnb" archivePath="Content\Sound\Jump.xnb" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Sound\Collide.xnb" archivePath="Content\Sound\Collide.xnb" lastWriteTime="2016/2/22 22:01:55" />
+  <file source="C:\Users\Jing\Documents\GitHub\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Debug\Content\Sound\win.xnb" archivePath="Content\Sound\win.xnb" lastWriteTime="2016/2/22 22:01:55" />
+</xapCache>

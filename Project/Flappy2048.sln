@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flappy2048", "Flappy2048\Flappy2048\Flappy2048.csproj", "{944A8B4D-FFC7-42B8-B553-F9E45D52626D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Flappy2048Content", "Flappy2048\Flappy2048Content\Flappy2048Content.contentproj", "{5DEB55A3-0037-4A31-AA47-37B380B1A7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiLibraryV1.2411", "SamuraiLibraryV1.2411\SamuraiLibraryV1.2411.csproj", "{EE598C3D-1AD6-452F-895B-B5A051D34175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944A8B4D-FFC7-42B8-B553-F9E45D52626D}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{944A8B4D-FFC7-42B8-B553-F9E45D52626D}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{944A8B4D-FFC7-42B8-B553-F9E45D52626D}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{944A8B4D-FFC7-42B8-B553-F9E45D52626D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{944A8B4D-FFC7-42B8-B553-F9E45D52626D}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{944A8B4D-FFC7-42B8-B553-F9E45D52626D}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{5DEB55A3-0037-4A31-AA47-37B380B1A7CD}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{5DEB55A3-0037-4A31-AA47-37B380B1A7CD}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{EE598C3D-1AD6-452F-895B-B5A051D34175}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{EE598C3D-1AD6-452F-895B-B5A051D34175}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{EE598C3D-1AD6-452F-895B-B5A051D34175}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{EE598C3D-1AD6-452F-895B-B5A051D34175}.Release|Windows Phone.Build.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

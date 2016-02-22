@@ -1,0 +1,17 @@
+E:\Users\BC\Desktop\Flappy2048\SamuraiLibraryV1.2411\bin\Windows Phone\Release\SamuraiLibraryV1.241.dll
+E:\Users\BC\Desktop\Flappy2048\SamuraiLibraryV1.2411\bin\Windows Phone\Release\SamuraiLibraryV1.241.pdb
+E:\Users\BC\Desktop\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Users\BC\Desktop\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\SamuraiLibraryV1.241.dll
+E:\Users\BC\Desktop\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\SamuraiLibraryV1.241.pdb
+E:\Users\BC\Desktop\FFlappy2048\Flappy2048\SamuraiLibraryV1.2411\bin\Windows Phone\Release\SamuraiLibraryV1.241.dll
+E:\Users\BC\Desktop\FFlappy2048\Flappy2048\SamuraiLibraryV1.2411\bin\Windows Phone\Release\SamuraiLibraryV1.241.pdb
+E:\Users\BC\Desktop\FFlappy2048\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\SamuraiLibraryV1.2411.csprojResolveAssemblyReference.cache
+E:\Users\BC\Desktop\FFlappy2048\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Users\BC\Desktop\FFlappy2048\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\SamuraiLibraryV1.241.dll
+E:\Users\BC\Desktop\FFlappy2048\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\SamuraiLibraryV1.241.pdb
+J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\SamuraiLibraryV1.2411\bin\Windows Phone\Release\SamuraiLibraryV1.241.dll
+J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\SamuraiLibraryV1.2411\bin\Windows Phone\Release\SamuraiLibraryV1.241.pdb
+J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\SamuraiLibraryV1.2411.csprojResolveAssemblyReference.cache
+J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\SamuraiLibraryV1.241.dll
+J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\SamuraiLibraryV1.2411\obj\Windows Phone\Release\SamuraiLibraryV1.241.pdb

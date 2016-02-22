@@ -1,0 +1,10 @@
+Content\Images\background.xnb
+Content\Images\tile.xnb
+Content\Images\win.xnb
+Content\Images\frame.xnb
+Content\Images\block.xnb
+Content\Font\ScoreFont.xnb
+Content\Sound\Coin.xnb
+Content\Sound\Jump.xnb
+Content\Sound\Collide.xnb
+Content\Sound\win.xnb

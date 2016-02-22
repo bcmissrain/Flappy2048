@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\background.png</Source>
+      <Name>Images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Images\background.xnb</Output>
+      <Time>2014-03-20T12:39:55.2117904+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile.png</Source>
+      <Name>Images\tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Images\tile.xnb</Output>
+      <Time>2014-03-20T13:48:34.5458047+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\win.png</Source>
+      <Name>Images\win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Images\win.xnb</Output>
+      <Time>2014-03-20T09:24:55.1830306+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\frame.png</Source>
+      <Name>Images\frame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Images\frame.xnb</Output>
+      <Time>2014-03-20T12:39:55.8829261+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\block.png</Source>
+      <Name>Images\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Images\block.xnb</Output>
+      <Time>2014-03-20T10:39:42.8551502+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\ScoreFont.spritefont</Source>
+      <Name>Font\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Font\ScoreFont.xnb</Output>
+      <Time>2014-03-20T10:55:50.2937956+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Coin.wav</Source>
+      <Name>Sound\Coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Sound\Coin.xnb</Output>
+      <Time>2014-03-20T11:24:47.1340763+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Jump.wav</Source>
+      <Name>Sound\Jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Sound\Jump.xnb</Output>
+      <Time>2014-03-20T11:24:47.0999444+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Collide.wav</Source>
+      <Name>Sound\Collide</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Sound\Collide.xnb</Output>
+      <Time>2014-03-20T11:28:12.8066144+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\win.wav</Source>
+      <Name>Sound\win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\Sound\win.xnb</Output>
+      <Time>2014-03-20T13:04:19.2249733+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5DEB55A3-0037-4A31-AA47-37B380B1A7CD}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048Content\</RootDirectory>
+      <LoggerRootDirectory>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\</LoggerRootDirectory>
+      <IntermediateDirectory>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-15T11:17:02.7653969+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

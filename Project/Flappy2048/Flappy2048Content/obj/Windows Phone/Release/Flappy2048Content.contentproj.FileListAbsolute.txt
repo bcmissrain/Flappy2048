@@ -1,0 +1,2 @@
+E:\Users\BC\Desktop\FFlappy2048\Flappy2048\Flappy2048\Flappy2048Content\obj\Windows Phone\Release\Flappy2048Content.contentprojResolveAssemblyReference.cache
+J:\桌面\当前项目\00毕设相关\FFlappy2048\中国版\Flappy2048\Flappy2048\Flappy2048Content\obj\Windows Phone\Release\Flappy2048Content.contentprojResolveAssemblyReference.cache
